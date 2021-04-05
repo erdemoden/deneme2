@@ -9,10 +9,12 @@
 import UIKit
 
 class ikinci: UIViewController {
-
+  
+    @IBOutlet weak var yazi: UILabel!
+    var deneme : String = ""
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        yazi.text = deneme
         // Do any additional setup after loading the view.
     }
     

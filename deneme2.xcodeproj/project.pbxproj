@@ -15,6 +15,7 @@
 		19B9BD8125DAB61E0096AC7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19B9BD7F25DAB61E0096AC7F /* LaunchScreen.storyboard */; };
 		19B9BD8C25DAB61E0096AC7F /* deneme2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B9BD8B25DAB61E0096AC7F /* deneme2Tests.swift */; };
 		19B9BD9725DAB61E0096AC7F /* deneme2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B9BD9625DAB61E0096AC7F /* deneme2UITests.swift */; };
+		19B9BDA525DAC4200096AC7F /* ikinci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B9BDA425DAC4200096AC7F /* ikinci.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		19B9BD9225DAB61E0096AC7F /* deneme2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = deneme2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19B9BD9625DAB61E0096AC7F /* deneme2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deneme2UITests.swift; sourceTree = "<group>"; };
 		19B9BD9825DAB61E0096AC7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19B9BDA425DAC4200096AC7F /* ikinci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ikinci.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				19B9BD7625DAB61C0096AC7F /* SceneDelegate.swift */,
 				19B9BD7825DAB61C0096AC7F /* ViewController.swift */,
 				19B9BD7A25DAB61C0096AC7F /* Main.storyboard */,
+				19B9BDA425DAC4200096AC7F /* ikinci.swift */,
 				19B9BD7D25DAB61E0096AC7F /* Assets.xcassets */,
 				19B9BD7F25DAB61E0096AC7F /* LaunchScreen.storyboard */,
 				19B9BD8225DAB61E0096AC7F /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				19B9BD7925DAB61C0096AC7F /* ViewController.swift in Sources */,
 				19B9BD7525DAB61C0096AC7F /* AppDelegate.swift in Sources */,
+				19B9BDA525DAC4200096AC7F /* ikinci.swift in Sources */,
 				19B9BD7725DAB61C0096AC7F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
